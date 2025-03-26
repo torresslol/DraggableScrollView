@@ -27,18 +27,6 @@ A highly customizable SwiftUI scroll view component that supports mouse drag int
 
 ## Installation
 
-### Swift Package Manager
-
-Add the following to your `Package.swift` file:
-
-```swift
-dependencies: [
-    .package(url: "https://github.com/torresslol/DraggableScrollView.git", from: "1.0.0")
-]
-```
-
-### Manual Installation
-
 Simply copy the `DraggableScrollView.swift` file into your project.
 
 ## Usage
